@@ -1,0 +1,15 @@
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/bin/Debug/net6.0/projetoPOORpg
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/bin/Debug/net6.0/projetoPOORpg.deps.json
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/bin/Debug/net6.0/projetoPOORpg.runtimeconfig.json
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/bin/Debug/net6.0/projetoPOORpg.dll
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/bin/Debug/net6.0/projetoPOORpg.pdb
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.csproj.AssemblyReference.cache
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.AssemblyInfoInputs.cache
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.AssemblyInfo.cs
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.csproj.CoreCompileInputs.cache
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.dll
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/refint/projetoPOORpg.dll
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.pdb
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/projetoPOORpg.genruntimeconfig.cache
+/home/jovas/Bootcamp/bootcampDotNet/projetoPOORpg/obj/Debug/net6.0/ref/projetoPOORpg.dll
